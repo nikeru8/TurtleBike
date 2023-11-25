@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_80FFFFFF">#80FFFFFF</color>
+    <color name="bike_main_color">#B5CC22</color>
+    <color name="rv_bike_even_color">#F6F6F6</color>
+    <color name="rv_bike_odd_color">#FFFFFF</color>
+    <color name="gray_AEAEAE">#AEAEAE</color>
+</resources>

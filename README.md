@@ -20,7 +20,7 @@ ui
 
 寫在單元測試內
 
-https://github.com/Azure-Samples/ms-identity-android-kotlin/blob/master/app/src/test/java/com/azuresamples/msalandroidkotlinapp/ExampleUnitTest.kt
+https://github.com/nikeru8/TurtleBike/blob/master/app/src/test/java/com/turtle/turtlebike/ExampleUnitTest.kt
 
 ![題目一](https://i.imgur.com/IBRZd8D.jpeg)
 
@@ -31,7 +31,7 @@ https://github.com/Azure-Samples/ms-identity-android-kotlin/blob/master/app/src/
 
 寫在單元測試內
 
-https://github.com/Azure-Samples/ms-identity-android-kotlin/blob/master/app/src/test/java/com/azuresamples/msalandroidkotlinapp/ExampleUnitTest.kt
+https://github.com/nikeru8/TurtleBike/blob/master/app/src/test/java/com/turtle/turtlebike/ExampleUnitTest.kt
 
 ![題目二](https://i.imgur.com/lHnAu66.jpg)
 

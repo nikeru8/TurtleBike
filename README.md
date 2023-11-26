@@ -14,18 +14,28 @@ api
 
 ui
 
+======
 
 第 1 題.
 
 寫在單元測試內
 
+https://github.com/Azure-Samples/ms-identity-android-kotlin/blob/master/app/src/test/java/com/azuresamples/msalandroidkotlinapp/ExampleUnitTest.kt
+
 ![題目一](https://i.imgur.com/IBRZd8D.jpeg)
+
+======
+
 
 第 2 題. 
 
 寫在單元測試內
 
-![題目一]([https://i.imgur.com/IBRZd8D.jpeg](https://i.imgur.com/lHnAu66.jpg)https://i.imgur.com/lHnAu66.jpg)
+https://github.com/Azure-Samples/ms-identity-android-kotlin/blob/master/app/src/test/java/com/azuresamples/msalandroidkotlinapp/ExampleUnitTest.kt
+
+![題目二]([https://i.imgur.com/IBRZd8D.jpeg](https://i.imgur.com/lHnAu66.jpg))
+
+
 
 
 

@@ -58,7 +58,7 @@ class BikeSearchAdapter(private var activity: Activity) : RecyclerView.Adapter<B
     override fun getItemCount(): Int = lists.size ?: 0
 
     fun updateData(newList: UBikeModel, searchStr: String) {
-        Log.d("TAG", "checkpointewfjeqi newList = ${newList}")
+
         this.searchStr = searchStr
         lists = newList
         notifyDataSetChanged()

@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">TurtleBike</string>
     <string name="search_bike_stop">搜尋站點</string>
+    <string name="login">登入</string>
+
+    <array name="menu_bike">
+        <item>使用說明</item>
+        <item>收費方式</item>
+        <item>站點資訊</item>
+        <item>活動專區</item>
+    </array>
+
 </resources>

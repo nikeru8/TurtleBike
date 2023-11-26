@@ -4,7 +4,11 @@
     <color name="white">#FFFFFFFF</color>
     <color name="gray_80FFFFFF">#80FFFFFF</color>
     <color name="bike_main_color">#B5CC22</color>
+    <color name="bike_main_color_selected">#677510</color>
     <color name="rv_bike_even_color">#F6F6F6</color>
     <color name="rv_bike_odd_color">#FFFFFF</color>
+    <color name="rv_bike_item_text">#323232</color>
     <color name="gray_AEAEAE">#AEAEAE</color>
+    <color name="rv_bike_shape_color">#AEAEAE</color>
+
 </resources>
